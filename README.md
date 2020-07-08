@@ -1,3 +1,1 @@
-# My Love Story
-Site: http://love.cuiqingcai.com/
-# LoveYourLady
+# ILoveYou.github.io
